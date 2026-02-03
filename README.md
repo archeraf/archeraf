@@ -24,15 +24,13 @@ Domain Integrity: I advocate for Rich Domain Models, utilizing Value Objects and
 Scalable Infrastructure: Experienced in managing data with EF Core and SQL Server, and containerizing environments with Docker for seamless deployment. <br/>
 
 💻 My Tech Stack <br/><br/>
-Backend: C# | .NET 8/9 | EF Core | FluentValidation | SQL Server <br/>
+Backend: C# | .NET | EF Core | SQL Server <br/>
 
-Frontend: Angular | TypeScript | JavaScript (ES6+) | RxJS <br/>
+Frontend: Angular | TypeScript | JavaScript <br/>
 
-Architecture: DDD | Clean Architecture | SOLID | Repository Pattern <br/>
+Architecture: DDD | Clean Architecture  <br/>
 
 DevOps & Tools: Docker | Git | REST APIs <br/>
 
-🎯 Current Goals <br/><br/>
-I am currently focusing on advanced State Management in Angular and refining Microservices communication patterns in .NET to build even more resilient financial and management systems. <br/>
 
 
